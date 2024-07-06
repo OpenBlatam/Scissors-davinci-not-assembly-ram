@@ -1,3 +1,5 @@
+# More libraries the closed source assembly bios libraries
+
 import win32com.client
 
 strComputer = "."
