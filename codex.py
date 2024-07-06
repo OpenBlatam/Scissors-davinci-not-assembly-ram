@@ -1,3 +1,4 @@
+# The rams hardware UEFI 
 import wmi
 
 c = wmi.WMI()
